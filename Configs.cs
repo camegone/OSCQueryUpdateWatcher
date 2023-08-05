@@ -17,6 +17,6 @@ static class Configs
     // Name of this client
     public static readonly string ClientName = "OSCQueryLogger";
     // span of request tree
-    public static readonly int ListenDelayMillis = 10;
+    public static readonly int ListenDelayMillis = 100;
     public static readonly int TimeoutMillis = 1000;
 }

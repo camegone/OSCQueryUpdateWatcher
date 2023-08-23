@@ -4,9 +4,12 @@
 
 ## How to run
 
- This code references VRCOSCQuery NuGet package that not published yet, so you need to make locally.
+ ~~This code references VRCOSCQuery NuGet package that not published yet, so you need to make locally.~~
+ The NuGet package is oficially uploaded! You won't need to do something but you should need to delete local package if you had created.
 
 ### Local build and installation the NuGet Package
+
+***This is an obsolete instruction. Use the package on NuGet.org instead.***
 
 If you have not created local NuGet source, do
 
